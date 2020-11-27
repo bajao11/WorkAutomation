@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#To execute the script: ./checkpatches.sh US SERVICEBENCH-xxxxx
+#To execute the script: ./checkpatches.sh sUS SERVICEBENCH-xxxxx
 # Declare Variables
 datetoday=`date +"%Y%m%d-%H%M%S"`
 output_path=/home/serviceb/checkpatches/output
